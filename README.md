@@ -16,3 +16,22 @@ Development (25%): clear, concise, and correct code; appropriate tests; demonstr
 Documentation (25%): clear explanations of concepts in notebooks; concise comments in code and elsewhere; appropriate, standard README for a GitHub repository.
 
 Consistency (25%): tens of commits, each representing a reasonable amount of work; literature, documentation, and code evidencing work on the assessment; evidence of reviewing and refactoring.
+
+# Task Two
+
+Give an overview of the famous penguins data set, explaining the types of variables it contains. Suggest the types of variables that should be used to model them in Python, explaining your rationale.
+
+Sources:
+Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer
+#>   Archipelago (Antarctica) penguin data. R package version 0.1.0.
+#>   https://allisonhorst.github.io/palmerpenguins/. doi:
+#>   10.5281/zenodo.3960218.
+
+@Manual{,
+#>     title = {palmerpenguins: Palmer Archipelago (Antarctica) penguin data},
+#>     author = {Allison Marie Horst and Alison Presmanes Hill and Kristen B Gorman},
+#>     year = {2020},
+#>     note = {R package version 0.1.0},
+#>     doi = {10.5281/zenodo.3960218},
+#>     url = {https://allisonhorst.github.io/palmerpenguins/},
+#>   }
