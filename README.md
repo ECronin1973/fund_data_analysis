@@ -21,17 +21,13 @@ Consistency (25%): tens of commits, each representing a reasonable amount of wor
 
 Give an overview of the famous penguins data set, explaining the types of variables it contains. Suggest the types of variables that should be used to model them in Python, explaining your rationale.
 
-Sources:
-Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer
-#>   Archipelago (Antarctica) penguin data. R package version 0.1.0.
-#>   https://allisonhorst.github.io/palmerpenguins/. doi:
-#>   10.5281/zenodo.3960218.
+1. Kirch, Wilhelm, ed. (2008). "Level of Measurement". Encyclopedia of Public Health. Vol. 2. Springer. pp. 851–852. doi:10.1007/978-1-4020-5614-7_1971 (https://doi.org/10.1007%2F9
+78-1-4020-5614-7_1971). ISBN 978-1-4020-5613-0.
+2. Data Science with the Penguins Data Set - https://jdatascientist.medium.com/data-science-with-the-penguins-data-set-table-of-contents-a261f75be08b (accessed 25/10/2023)
+3. R: Penguins Dataset - search.r-project.org. https://search.r-project.org/CRAN/refmans/ggResidpanel/html/penguins.html.
+4. The penguins datasets — Scikit-learn course - GitHub Pages. https://inria.github.io/scikit-learn-mooc/python_scripts/trees_dataset.html.
+5. Data Exploration and Visualisation Using Palmer Penguins Dataset. https://www.analyticsvidhya.com/blog/2022/04/data-exploration-and-visualisation-using-palmer-penguins-dataset/.
+6. The R Journal: Palmer Archipelago Penguins Data in the palmerpenguins R .... https://journal.r-project.org/articles/RJ-2022-020/.
+7. Penguin dataset : The new Iris | Kaggle. https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris.
+8. Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer, #> Archipelago (Antarctica) penguin data. R package version 0.1.0. #> https://allisonhorst.github.io/palmerpenguins/. doi:#> 10.5281/zenodo.3960218.
 
-@Manual{,
-#>     title = {palmerpenguins: Palmer Archipelago (Antarctica) penguin data},
-#>     author = {Allison Marie Horst and Alison Presmanes Hill and Kristen B Gorman},
-#>     year = {2020},
-#>     note = {R package version 0.1.0},
-#>     doi = {10.5281/zenodo.3960218},
-#>     url = {https://allisonhorst.github.io/palmerpenguins/},
-#>   }
